@@ -1,6 +1,6 @@
 ---
 title: "MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition"
-author: "Wonjune Seo*, Joonhyuk Baek*, Yeseong Jung*, Saerom Park"
+author: "Wonjune Seo*, Joonhyuk Baek*, Yeseong Jung*, Saerom Park†"
 date: "2025-10-27"
 journal: "ACM International Conference on Multimedia (ACM MM) 2025"
 external_url: "https://dl.acm.org/doi/10.1145/3746027.3761986"
