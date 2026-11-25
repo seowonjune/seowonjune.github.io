@@ -18,7 +18,7 @@ education:
   - degree: "B.S. in Computer Science and Engineering"
     institution: "Ulsan National Institute of Science and Technology (UNIST)"
     period: "Feb 2023 - Feb 2027"
-    All courses taught in English · National Science and Engineering Scholarship"
+    description: "All courses taught in English · National Science and Engineering Scholarship"
 ---
 
 📄 **[Download full CV (PDF)](/cv.pdf)**
