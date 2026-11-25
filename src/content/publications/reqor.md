@@ -1,8 +1,8 @@
 ---
 title: "ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models"
-author: "Wonjune Seo, Minkyung Park, Saerom Park"
+author: "Wonjune Seo, Minkyung Park, Saerom Park†"
 date: "2026-11-24"
-journal: "Under review at ICLR 2027"
+journal: "Under review"
 external_url: "https://arxiv.org/abs/2611.32755"
 description: "A training-free defense that repairs quantization-conditioned backdoors in LLMs without any attack information."
 tags:
