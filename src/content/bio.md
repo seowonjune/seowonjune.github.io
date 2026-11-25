@@ -19,12 +19,12 @@ Previously, I co-founded a deepfake-prevention startup, where I led the developm
 ## News
 
 - **2026.05** 🎉 **Proactive Defense Benchmark against Deepfake Generation** accepted to **ICML 2026**!
-- **2025** 🥇 **Best Paper Award** at the Korea Artificial Intelligence Conference
-- **2025** 🏅 **Excellence Award** at the 6th Military Tech Challenge
-- **2025** 🥈 **2nd Place** in the ACM MM AADD-2025 Grand Challenge on Adversarial Attacks on Deepfake Detectors
-- **2025.05** 🎉 **MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition** accepted to **ACM MM 2025**!
-- **2024** 🥇 **Grand Prize** at the AI Startup Contest, Gwangju Metropolitan City
-- **2024** 🏅 **Excellence Award** at the 8th FSEC Research Paper Contest, Financial Security Institute
+- **2025.12** 🏅 **Excellence Award** at the 6th Military Tech Challenge
+- **2025.10** 🥇 **Best Paper Award** at the Korea Artificial Intelligence Conference
+- **2025.07** 🎉 **MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition** accepted to **ACM MM 2025**!
+- **2025.06** 🥈 **2nd Place** in the ACM MM AADD-2025 Grand Challenge on Adversarial Attacks on Deepfake Detectors
+- **2024.11** 🏅 **Excellence Award** at the 8th FSEC Research Paper Contest, Financial Security Institute
+- **2024.06** 🥈 **Grand Prize** at the AI Startup Contest, Gwangju Metropolitan City
 
 ## Research Interests
 
