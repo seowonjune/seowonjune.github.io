@@ -18,9 +18,13 @@ Previously, I co-founded a deepfake-prevention startup, where I led the developm
 
 ## News
 
-- **2026** — Our unified benchmark for proactive deepfake defenses was accepted to **ICML 2026**.
-- **2025** — **MIG-COW** was published at **ACM MM 2025**, and placed **2nd** in the AADD-2025 Grand Challenge.
-- **2025** — **Best Paper Award** at the Korea Artificial Intelligence Conference, and **Excellence Award** at the 6th Military Tech Challenge.
+- **2026.05** 🎉 **Proactive Defense Benchmark against Deepfake Generation** accepted to **ICML 2026**!
+- **2025** 🥇 **Best Paper Award** at the Korea Artificial Intelligence Conference
+- **2025** 🏅 **Excellence Award** at the 6th Military Tech Challenge
+- **2025** 🥈 **2nd Place** in the ACM MM AADD-2025 Grand Challenge on Adversarial Attacks on Deepfake Detectors
+- **2025.05** 🎉 **MIG-COW: Transferable Adversarial Attacks on Deepfake Detectors via Gradient Decomposition** accepted to **ACM MM 2025**!
+- **2024** 🥇 **Grand Prize** at the AI Startup Contest, Gwangju Metropolitan City
+- **2024** 🏅 **Excellence Award** at the 8th FSEC Research Paper Contest, Financial Security Institute
 
 ## Research Interests
 
