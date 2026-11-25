@@ -1,6 +1,6 @@
 ---
 title: "Proactive Defense Benchmark against Deepfake Generation"
-author: "Joonhyuk Baek*, Wonjune Seo*, Jaeyun Kim, Saerom Park, Hoki Kim"
+author: "Joonhyuk Baek*, Wonjune Seo*, Jaeyun Kim, Saerom Park†, Hoki Kim†"
 date: "2026-07-01"
 journal: "ICML 2026"
 external_url: "https://proceedings.mlr.press/v306/baek26e.html"
